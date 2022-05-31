@@ -1,0 +1,243 @@
+Relu Activation in Hidden layers and tanh on Output layer (2 Hidden Layers)
+
+Model with 2 hidden layers and with 2 number of neurons in each hidden layer:
+Model Batch size used = MAX/100
+Model total Accuracy = 33.500000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with 2 number of neurons in each hidden layer:
+Model Batch size used = MAX/10
+Model total Accuracy = 34.275002%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with H1 = 2 , H2 = 4:
+Model Batch size used = MAX/10
+Model total Accuracy = 39.250000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with H1 = 2 , H2 = 4:
+Model Batch size used = MAX/100
+Model total Accuracy = 39.299999%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 2 , H2 = 6
+Model Batch size used = MAX/100
+Model total Accuracy = 30.875000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 2 , H2 = 6
+Model Batch size used = MAX/10
+Model total Accuracy = 32.200001%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4
+Model Batch size used = MAX/10
+Model total Accuracy = 51.375000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 52.200001%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 6
+Model Batch size used = MAX/100
+Model total Accuracy = 43.924999%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 6
+Model Batch size used = MAX/10
+Model total Accuracy = 41.325001%
+Learning Rate used = 0.000100
+---------------------------------
+
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 6
+Model Batch size used = MAX/10
+Model total Accuracy = 34.875000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 6
+Model Batch size used = MAX/100
+Model total Accuracy = 53.100002%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 54.875000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 8
+Model Batch size used = MAX/100
+Model total Accuracy = 49.049999%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 8
+Model Batch size used = MAX/100
+Model total Accuracy = 48.150002%
+Learning Rate used = 0.000010
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 8
+Model Batch size used = MAX/10
+Model total Accuracy = 52.950001%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 6
+Model Batch size used = MAX/10
+Model total Accuracy = 53.175003%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 6
+Model Batch size used = MAX/100
+Model total Accuracy = 53.149998%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 10 , H2 = 10
+Model Batch size used = MAX/100
+Model total Accuracy = 58.399998%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 10 , H2 = 10
+Model Batch size used = MAX/10
+Model total Accuracy = 54.750000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 12 , H2 = 12
+Model Batch size used = MAX/10
+Model total Accuracy = 50.674999%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 12 , H2 = 12
+Model Batch size used = MAX/100
+Model total Accuracy = 47.875000%
+Learning Rate used = 0.000100
+----------------------------------
+//tanh activation in hidden layers and output with 3 hidden layers
+
+
+
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4, H3 = 4
+Model Batch size used = MAX/10
+Model total Accuracy = 46.099998%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4, H3 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 69.524994%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 6, H3 = 4
+Model Batch size used = MAX/10
+Model total Accuracy = 63.524998%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 6, H3 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 54.000004%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 6, H3 = 6
+Model Batch size used = MAX/100
+Model total Accuracy = 53.399998%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 6, H3 = 6
+Model Batch size used = MAX/10
+Model total Accuracy = 52.950001%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 8, H3 = 8
+Model Batch size used = MAX/10
+Model total Accuracy = 66.000000%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 8, H3 = 8
+Model Batch size used = MAX/100
+Model total Accuracy = 66.425003%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 10 , H2 = 10, H3 = 10
+Model Batch size used = MAX/100
+Model total Accuracy = 62.475002%
+Learning Rate used = 0.001000
+---------------------------------
+
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 69.524994%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model is training with B = 1 so we have a serial update of weights
+Model total Accuracy = 51.450001%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4
+Model Batch size used = MAX/10
+Model total Accuracy = 46.000000%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model Batch size used = MAX/10
+Model total Accuracy = 33.674999%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4
+Model is training with B = 1 so we have a serial update of weights
+Model total Accuracy = 38.125000%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 69.424995%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model Batch size used = MAX/10
+Model total Accuracy = 31.900002%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 24.225000%
+Learning Rate used = 0.010000
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 62.099998%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 6 , H2 = 6 , H3 = 6
+Model Batch size used = MAX/100
+Model total Accuracy = 28.400002%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 32.075001%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 69.199997%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 8
+Model Batch size used = MAX/100
+Model total Accuracy = 36.674999%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 8 , H2 = 8 , H3 = 8
+Model Batch size used = MAX/100
+Model total Accuracy = 57.325001%
+Learning Rate used = 0.001000
+----------------------------------
+Model with 2 hidden layers and with,number of neurons in each hidden layer: H1 = 3 , H2 = 3
+Model Batch size used = MAX/100
+Model total Accuracy = 24.375000%
+Learning Rate used = 0.000100
+----------------------------------
+Model with 3 hidden layers and with,number of neurons in each hidden layer: H1 = 4 , H2 = 4 , H3 = 4
+Model Batch size used = MAX/100
+Model total Accuracy = 71.625000%
+Learning Rate used = 0.001000
+----------------------------------

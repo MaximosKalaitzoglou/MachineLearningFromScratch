@@ -1,0 +1,7 @@
+Number of groups M = 3 , minimum error after 20 iterations = 350.403931
+Number of groups M = 5 , minimum error after 20 iterations = 104.798813
+Number of groups M = 7 , minimum error after 20 iterations = 77.816841
+Number of groups M = 9 , minimum error after 20 iterations = 54.876183
+Number of groups M = 11 , minimum error after 20 iterations = 45.646786
+Number of groups M = 13 , minimum error after 20 iterations = 38.805161
+
